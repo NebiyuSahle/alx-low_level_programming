@@ -1,7 +1,7 @@
+#include <stdio.h> 
+
 #include "main.h"
-
-#include <stdio.h>
-
+int _atoi(char *s);
 
 
 /**
@@ -19,7 +19,6 @@ int main(void)
 {
 
 	    int nb;
-
 
 
 	        nb = _atoi("98");
